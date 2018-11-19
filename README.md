@@ -1,16 +1,11 @@
 # Restaurant-Review-App
 
-## Live Version
-https://khushboo404.github.io/Restaurant-Review-App/
-
-
 ## Project Description
 Restaurant Reviews project will alow you to incrementally convert a static webpage to a mobile-ready web application. Dpwnload the starter code from here [https://github.com/udacity/mws-restaurant-stage-1]
 
 
 ## Installation and Deployement
 
-* Click [here](https://khushboo404.github.io/Restaurant-Review-App/) to check the final version.
 * To run into your system, Download as .zip file or clone this project:
 
    - $ git clone https://github.com/khushboo404/Restaurant-Review-App
