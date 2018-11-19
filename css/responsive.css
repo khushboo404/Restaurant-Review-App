@@ -54,12 +54,13 @@
       width: 90%;
     }
     #reviews-list li {
-      width: 85%;
+      width: 87%;
+      border-radius: 15px;
     }
     .inside #footer {
       bottom: 0;
       position: absolute;
-      width: 50%;
+      width: 46%;
     }
     #breadcrumb {
       width: calc(50% - 80px);
