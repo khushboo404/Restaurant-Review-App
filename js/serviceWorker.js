@@ -1,7 +1,7 @@
 const staticCacheName = 'mws-restaurant-cache';
 const assets = [
   './',
-				'./index.html',
+        './index.html',
 				'./restaurant.html',
         './css/styles.css',
         './css/responsive.css',
@@ -9,7 +9,6 @@ const assets = [
 				'./js/dbhelper.js',
 				'./js/main.js',
 				'./js/restaurant_info.js',
-				'./js/serviceWorkerRegister.js',
 				'./img/1.jpg',
 				'./img/2.jpg',
 				'./img/3.jpg',
