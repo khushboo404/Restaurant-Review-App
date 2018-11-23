@@ -10,7 +10,7 @@ var markers = []
 document.addEventListener('DOMContentLoaded', (event) => {
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-    .register('./js/serviceWorker.js')
+    .register('../serviceWorker.js')
     .then( (registration) => {
       console.log('ServiceWorker registration completed, scope: ', registration.scope);
     })
